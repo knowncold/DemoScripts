@@ -1,0 +1,40 @@
+html {
+    background: #f4f4f4;
+
+}
+body {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-family: 'Source Han Sans CN';
+    font-size: 18px;
+    background: #fefefe;
+    margin: 5% 20% 5% 20%;
+    padding: 2% 5% 3% 5%;
+    width: 50%;
+    line-height:150%;
+    border: 1px solid LightGrey;
+    -webkit-box-shadow:0px 0px 10px #c4c1c1;
+    -moz-box-shadow:0px 0px 10px #c4c1c1;
+    box-shadow:0 3px 3px #c4c1c1,
+                3px 0 3px #c4c1c1;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+#quotes {
+
+}
+
+#counter {
+    text-align: center;
+}
+
+#foot {
+    text-align: center;
+    font-family: 'Ubuntu';
+}
